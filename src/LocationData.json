@@ -1,0 +1,44 @@
+[
+  {
+      "name": "AquaFauna Aquaristic",
+      "type": "Shop",
+      "latitude": 47.514668,
+      "longitude": 19.104225
+  },
+  {
+      "name": "Paskál Fürdo",
+      "type": "Spa",
+      "latitude": 47.521790,
+      "longitude": 19.128285
+  },
+  {
+      "name": "National Institute of Neurosurgery",
+      "type": "Hospital",
+      "latitude": 47.517895,
+      "longitude": 19.097941
+  },
+  {
+      "name": "Trófea Grill",
+      "type": "Restaurant",
+      "latitude": 47.517411,
+      "longitude": 19.094021
+  },
+  {
+      "name": "Varga Zoltán Sports Complex",
+      "type": "Sports",
+      "latitude": 47.512114,
+      "longitude": 19.118440
+  },
+  {
+      "name": "Pillangó Park",
+      "type": "Park",
+      "latitude": 47.504360,
+      "longitude": 19.123121
+  },
+  {
+      "name": "Hungarian Dance Academy",
+      "type": "School",
+      "latitude": 47.5198811,
+      "longitude": 19.093126
+  }
+]
